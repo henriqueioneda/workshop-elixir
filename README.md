@@ -87,9 +87,9 @@ mix compile
 
 ## Referências
 
+* [Apresentação](presentation.pdf)
 * https://elixirschool.com
 * https://elixir-lang.org
 * Apresentações no Youtube
 * Buscas no Google (blogs, Stackoverflow)
-* Apresentação [a relative link](presentation.pdf)
 
