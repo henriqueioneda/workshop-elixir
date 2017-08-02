@@ -91,5 +91,5 @@ mix compile
 * https://elixir-lang.org
 * Apresentações no Youtube
 * Buscas no Google (blogs, Stackoverflow)
-* Mindmap
+* Apresentação [a relative link](presentation.pdf)
 
