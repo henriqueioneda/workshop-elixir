@@ -38,7 +38,7 @@ DpFibonacci.at(10000)
 DpFibonacci.at(100000)
 ```
 
-Como essa implementação usa o conceito de Agents para guardar os estados da memoização das chamadas do fibonacci, é possível ver com a ferramenta da erlang observer o processo e os resultados dos cálculos! Basta fazer ```:observer.start()``` dentro do ````iex```. Será aberta uma janela que resume o que está acontecendo com a Erlang VM. Nela, vá na aba ```Processes``` e encontre o processo com o nome ```Elixir.DpFibonacci``` e dê dois cliques. Vá na aba ```State``` e clique em ```Click to expand above term```. Esse painel mostra o estado do que está armazenado no processo do agente utilizado (cheque os valores dos primeiros fibonacci!).
+Como essa implementação usa o conceito de Agents para guardar os estados da memoização das chamadas do fibonacci, é possível ver com a ferramenta da erlang observer o processo e os resultados dos cálculos! Basta fazer ```:observer.start()``` dentro do ```iex```. Será aberta uma janela que resume o que está acontecendo com a Erlang VM. Nela, vá na aba ```Processes``` e encontre o processo com o nome ```Elixir.DpFibonacci``` e dê dois cliques. Vá na aba ```State``` e clique em ```Click to expand above term```. Esse painel mostra o estado do que está armazenado no processo do agente utilizado (cheque os valores dos primeiros fibonacci!).
 
 ## Pattern Matching
 
