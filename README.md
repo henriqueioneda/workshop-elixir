@@ -90,6 +90,7 @@ mix compile
 ## Referências
 
 * [Apresentação](presentation.pdf)
+* [Link da apresentação em ppt](https://docs.google.com/presentation/d/1aQDGEoKVCyiwodD75FSjeWgN0jxMEZ5GRRY4fbDHwZs/edit?usp=sharing)
 * https://elixirschool.com
 * https://elixir-lang.org
 * Apresentações no Youtube
